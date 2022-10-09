@@ -1,0 +1,6 @@
+projectKey=WebPrueba
+serverUrl=http://localhost:9000
+serverVersion=7.5.0.20543
+dashboardUrl=http://localhost:9000/dashboard?id=WebPrueba
+ceTaskId=AXNoGBw6NrojoAffuN3P
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXNoGBw6NrojoAffuN3P
